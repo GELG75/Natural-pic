@@ -1,0 +1,16 @@
+.text-title{
+    font-size: 18px;
+  }
+  .content{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+      margin: 15px!important;
+  }
+  .card-natural{
+    margin: 15px!important;
+  }
+  .title{
+    text-align: center;
+    padding: 20px;
+  }
